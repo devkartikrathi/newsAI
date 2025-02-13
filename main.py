@@ -16,7 +16,8 @@ if not YOUTUBE_API_KEY:
     raise ValueError("Set the YOUTUBE_API_KEY environment variable with your YouTube API key.")
 
 YOUTUBE_CHANNEL_IDS = [
-    
+    "UCttspZesZIDEwwpVIgoZtWQ",
+    "UCRWFSbif-RFENbBrSiez1DA",
 ]
 
 def analyze_sentiment(text):
